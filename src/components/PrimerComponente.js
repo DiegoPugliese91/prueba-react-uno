@@ -3,7 +3,7 @@ import React from 'react'
 const PrimerComponente = () => {
   return (
     <div>
-        <h1>Hola C1</h1>
+        <h1>Hola Comp1</h1>
     </div>
   )
 }
